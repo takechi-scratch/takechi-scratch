@@ -1,12 +1,14 @@
-- 👋 こんにちは、@takechi-scratch です！
-- 👀 主にScratchで活動中です。
-- 🌱 コーディングの際は主にPythonを使っています。JavaScriptも勉強中。
-- 💞️ 「たーけクラウドシステム」を管理者さんと運営中。
-- 📫 ご連絡は、Scratchのプロフィールから！
-- 😄 呼び方に迷う方は、「たーけ」でOKです。
-- ⚡ 高校1年生です。
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takechi-scratch&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takechi-scratch&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takechi-scratch&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takechi-scratch&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takechi-scratch&theme=city_lights&utcOffset=9)
 
-<!---
-takechi-scratch/takechi-scratch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+高1です。
+Scratch（活動休止）/ プログラミングいろいろ / スクキャ歌ってみた
+
+たーけクラウドシステム
+https://scratch.mit.edu/studios/33110478/
+ぜひ登録してね！！
