@@ -6,7 +6,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takechi-scratch&theme=city_lights&utcOffset=9)
 
 
-高1です。
+高2です。
 Scratch（活動休止）/ プログラミングいろいろ / スクキャ歌ってみた
 
 たーけクラウドシステム
